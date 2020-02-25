@@ -1,0 +1,97 @@
+MAHESWARA REDDY PAMBI
+Mobile: +91-7013656618
+E-Mail:maheswara3050@gmail.com
+
+Profile Summary
+	 Having 3.2 years of IT experience as DevOps Engineer and Software Configuration activities and deployment activities for web-based software application.
+	Experienced in working on Agile operations process and tools area (Code review, unit test automation, Build & Release automation, Environment, Service, Incident and Change Management).
+	Experience and knowledge in AWS Cloud platform and its features which includes EC2, VPC, ELB, EBS Volumes, AMI, IAM, S3, CloudWatch and CloudFormation.
+	Extensive experience in using Version control systems includes   GIT & GIT HUB
+	Responsible for taking the source code and compiling using Maven and package it in its distributable format such as a WAR file.
+	Expertise in build tools like Maven for building J2EE/Java application artefacts and deploying it on multiple environments such as DEV, QA, and UAT.
+	Experienced in Jenkins by installing, configuring and maintaining for purpose of continuous integration (CI) 
+	Built end to end automation for all build and deployments and created Jenkins CI pipelines.
+	Expertise in building pipeline and multibranch pipeline for our services in development, staging, and pre-production environment by using the integrated tool Jenkins.
+	Setting up continuous delivery framework using Jenkins.
+	Worked and supported on several java applications migrations to Jenkins pipeline.
+	Knowledge on Docker container to create Docker images for different environments.
+	Knowledge in the creation of Docker containers and Docker consoles for managing the application life cycle
+	Knowledge in Creating custom Docker images using Docker file for easier replication of DEV, QA Environments in local machines
+	Having good Experience in ANSIBLE for Deployment on Multiple platforms.
+	Knowledge on Configuring and monitoring distributed and multi-platform servers using Nagios.
+	Deployed the applications to Tomcat Application Server and static content to Apache Web servers
+	Involved in providing demo to customers on product (CI/CD pipeline) and its features
+	Strong ability to troubleshoot any issues generated while building, deploying and in production support
+	Good communication skills with the ability to interact with User and development teams
+	Actively involved in AGILE methodologies while executing the project
+	Hands-On experience with JIRA, an issue and project management tracking tool
+	Efficient in working closely with teams to ensure high quality and timely delivery of builds and releases.
+	Involved in Daily and Weekly status meetings, Send consolidated weekly based report to PM by EOW.
+
+Professional Summary
+
+Client:  RMSI Pvt ltd                                                                 November 2016 to till date
+
+Role:  DevOps Engineer 
+
+
+Technical Stack
+
+	Scripting Languages		: Bash Shell Scripting
+	Version Management Tools  : GIT, GitHub
+	Configuration Integration      : Jenkins
+	Configuration Management    : Ansible
+	Build Tools			: Maven
+	Containerization Tool             : Docker
+	Monitoring Tool  		: Nagios
+	Operating System                   : Windows, Unix/Linux
+	Web Server			: Apache Tomcat
+	Client tools                               : Super Putty, Xshell 5, WinSCP.
+	Languages 			: C/C++, core java.
+
+
+Education
+
+•	Bachelor of Technology (B.Tech) from ALIET, Vijayawada in the year 2012-16
+
+
+
+ ROLES AND RESPONSIBILITY
+ 
+DevOps
+
+	Software Configuration management (Build and continuous Integration using  Maven, Jenkins & GIT.)
+	Responsible for setting up and configuring the necessary infrastructure support to all teams using Ansible.
+	Responsible for maintaining remote GIT repos and GIT hub.
+	Creating branches and tags on Git repository and provided branches access permission to dev team 
+	Responsible for building java projects using Build tool Maven
+	Creating War / Ear files using Maven.
+	Responsible for adding and managing nodes in Jenkins.
+	Responsible for creating freestyle and pipeline projects in Jenkins.
+	Involved in Maintaining upstream and downstream projects.
+	By using Jenkins continuous delivery deploying war files into Tomcat server.
+	Responsible to take weekly back-ups like Jenkins home Directory.
+	Verifying the logs if build fails and Verify Deployments logs to check for successful deployments
+	Managed and document all post deployment issues Post Deployments Issue utilizing the Log
+	Involved ansible installing configuration for DEV and QA
+
+AWS
+	Designed cloud solutions for customers leveraging services including, but not limited to, VPC, EC2, S3,  CloudWatch and SNS.
+	Good Exposure towards AWS Workspace.
+	Assisted in strict separation of permissions to least-privilege model using IAM roles and policies .
+	Understand client requirements, propose solutions and ensure delivery.
+	Experience of designing and developing comprehensive Cloud Computing solutions on the AWS platform. 
+	Experience with EC2 Auto Scaling, EBS, S3, ELB,  Cloud Watch and other AWS Services. 
+	AWS monitoring, queuing & notification.
+	Implementing AWS Infrastructure services (IAAS) like EC2, VPC, ELB, EBS, S3. 
+	Setting up new server (EC2) instances/services in AWS, configuring security groups, and setting up Elastic IPs.  
+	Monitoring health of Amazon EC2 instances and other AWS services. 
+	User management e.g. creating and managing users in S3.
+	Designing Auto scaling architectures for applications.
+	Custom monitoring metrics/analysis/alarms via CloudWatch.
+	Configuring security groups and grouping the servers depending on the applications.
+	Enabling and disabling of inbound and outbound ports of security groups using AWS GUI.
+                                            
+                                              
+                                               MAHESWARA REDDY PAMBI
+
